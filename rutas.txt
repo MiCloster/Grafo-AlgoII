@@ -1,0 +1,27 @@
+ARN10
+Buenos Aires
+Venado Tuerto
+150
+120
+233
+
+RN8
+Buenos Aires
+Venado Tuerto
+300
+50
+43
+
+ARN9
+Buenos Aires
+Rosario
+80
+60
+350
+
+ARN5
+Venado Tuerto
+Rosario
+60
+10
+50
